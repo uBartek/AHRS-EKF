@@ -109,7 +109,7 @@ y(5) = y(5) / norm;
 y(6) = y(6) / norm;
 
 %%%%%%%%%%%%%     
-%UDPATE STEP%
+%UPDATE STEP%
 %%%%%%%%%%%%%
 
 %Jacobian matrix H - partial derivatives dy/dx 
